@@ -70,8 +70,6 @@ try {
 
                         <td><a href="index.php?del_id=<?= $id = $value->id ?>">DELETE </a></td>
                         <td><a href="edit.php?edit_id=<?= $id = $value->id ?>">Edit</a></td>
-                        <!--                            <td><a href="edit.php?id=-->
-                        <? //= $id = $value->id ?><!--">Edit </a>-->
 
 
                         <? endforeach ?>
